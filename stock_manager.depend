@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671107067 source:d:\1ére année ingénieire\langage c\tp\projet\stock_manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672392639 source:d:\1ére année ingénieire\langage c\tp\projet\stock_manager\definition.c
+	<stdio.h>
+	<stdlib.h>
+

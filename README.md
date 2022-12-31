@@ -7,3 +7,7 @@ On a installé le minGW et on a modifié les variables d'environnement systéme 
 
 
 ![image](https://user-images.githubusercontent.com/96414737/210132721-ce95c1bc-1cfc-4c63-b520-1b598b8bf5be.png)
+
+
+https://user-images.githubusercontent.com/96414737/210151919-744cd1e8-d79e-4fd6-bde4-1925051b29f0.mp4
+
